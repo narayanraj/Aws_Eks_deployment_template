@@ -1,0 +1,2 @@
+# Aws_Eks_deployment_template
+ScaleReady__GitOps_Driven_Kubernetes_Deployment_Platform_on_AWS_EKS-main
