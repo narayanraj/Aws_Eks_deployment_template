@@ -1,0 +1,8 @@
+replicaCount: 2
+
+image:
+  repository: narayanraj/go-web-app
+  pullPolicy: IfNotPresent
+  tag: "20536065541"
+
+
